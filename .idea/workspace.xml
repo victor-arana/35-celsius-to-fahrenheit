@@ -13,6 +13,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -35,7 +46,38 @@
     "last_opened_file_path": "/home/victor/Insync/victorj.arana@gmail.com/Google Drive/source-code/gists/35-celsius-to-fahrenheit"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.UnitConverterTest">
+    <configuration name="UnitConverterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="celsius-to-fahrenheit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.data" />
+      <option name="MAIN_CLASS_NAME" value="no.data.UnitConverterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitConverterTest.convertCelsiusToFahrenheit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="celsius-to-fahrenheit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.data" />
+      <option name="MAIN_CLASS_NAME" value="no.data.UnitConverterTest" />
+      <option name="METHOD_NAME" value="convertCelsiusToFahrenheit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="35-celsius-to-fahrenheit" />
       <method v="2">
@@ -49,6 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UnitConverterTest" />
+        <item itemvalue="JUnit.UnitConverterTest.convertCelsiusToFahrenheit" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
